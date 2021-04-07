@@ -1,10 +1,14 @@
 # TCC 
-Análise dos dados de Origem e Destino da região metropolitana de São Paulo para verificar a correlação entre qualidade de transporte e acesso a empregos\n
-(BMAC-IME-USP)\n
-Yuanyuan Chen\n
-Orientador: Prof. Dr. Eduardo Felipe Zambom Santana\n
-CO-Orientador: Prof. Dr. Fabio Kon\n
-Março-2021\n
+Análise dos dados de Origem e Destino da região metropolitana de São Paulo para verificar a correlação entre qualidade de transporte e acesso a empregos
+
+(BMAC-IME-USP)
+Yuanyuan Chen
+
+Orientador: Prof. Dr. Eduardo Felipe Zambom Santana
+
+CO-Orientador: Prof. Dr. Fabio Kon
+
+Março-2021
 
 O objetivo principal deste trabalho é verificar a correlação entre qualidade de transporte e acesso das pessoas a oportunidades de trabalho na região metropolitana de São Paulo, a partir da análise dos deslocamentos pendulares ocorridos das pesquisas Origem-Destino (OD) de 1997 a 2017.
 Os dados de 1997 a 2017 utilizados e tratados estão disponíveis para baixar no release 'dados1997_2017'.
