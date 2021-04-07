@@ -3,7 +3,7 @@ Análise dos dados de Origem e Destino da região metropolitana de São Paulo pa
 
 (BMAC-IME-USP)
 
-Yuanyuan Chen
+Aluna: Yuanyuan Chen
 
 Orientador: Prof. Dr. Eduardo Felipe Zambom Santana
 
